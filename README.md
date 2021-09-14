@@ -1,6 +1,6 @@
 <div align="center">
   <img align="center" src="./0.jpg">
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=crice802&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=material-palenight" />  </a>
+  <a href="#"><img align="center" height="60vmax" src="https://github-readme-stats.vercel.app/api?username=crice802&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=material-palenight" />  </a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crice802&layout=compact&theme=material-palenight" /></a> 
   <hr>
   <h2>A little about me:</h2>
@@ -8,7 +8,7 @@
   <hr>
   <div>
     <h3>Reach out:</h3>
-    <a href=""><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
+    <a href="https://crice.dev/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
     <a href="https://www.linkedin.com/in/crice802/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
     <a href="https://github.com/crice802"><img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
     <a href="mailto: rcrice@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
