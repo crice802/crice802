@@ -2,7 +2,7 @@
 
 [![Cory's GitHub stats](https://github-readme-stats.vercel.app/api?username=crice802&count_private=true&show_icons=true&theme=material-palenight)
 )](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=crice802&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
