@@ -1,4 +1,6 @@
-[![Cory's GitHub stats](https://github-readme-stats.vercel.app/api?username=crice802)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Cory's GitHub stats](https://github-readme-stats.vercel.app/api?username=crice802&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
