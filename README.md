@@ -1,6 +1,6 @@
 <div align="center">
   <img align="center" src="./0.jpg">
-  <a href="#"><img align="center" height="60vmax" src="https://github-readme-stats.vercel.app/api?username=crice802&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=material-palenight" />  </a>
+  <a href="#"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=crice802&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=material-palenight" />  </a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crice802&layout=compact&theme=material-palenight" /></a> 
   <hr>
   <h2>A little about me:</h2>
